@@ -7,13 +7,6 @@
 // Flag it 
 // Print the number of flag
 
-
-
-
-
-
-
-
 #include <stdio.h>
 
 int main (void) {
