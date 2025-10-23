@@ -1,3 +1,5 @@
+// Write a program to insert a number at a given location in an array
+
 // The insertion algorithm in plain logic:
 
 // Start from the end of the array (n - 1)
